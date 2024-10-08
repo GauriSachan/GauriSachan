@@ -1,4 +1,6 @@
 ## Hi there 👋
+my name is Gauri Sachan and I am currently a B.Tech student in computer science and engineering!
+[![An image of @gaurisachan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurisachan)](https://holopin.io/@gaurisachan)
 
 <!--
 **GauriSachan/GauriSachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
