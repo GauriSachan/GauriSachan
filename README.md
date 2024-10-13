@@ -1,5 +1,6 @@
 ## Hi there 👋
-my name is Gauri Sachan and I am currently a B.Tech student in computer science and engineering!
+my name is Gauri Sachan and I am currently a B.Tech student in VIT Bhopal University computer science and engineering!
+I am currently in my second year and in 2024 I first participated in open source and Hacktoberfest!
 [![An image of @gaurisachan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurisachan)](https://holopin.io/@gaurisachan)
 
 <!--
